@@ -232,7 +232,7 @@ This repository provides a list of important/ frequently asked questions for flu
    One additional type of test that is not as well known is a golden test. In a golden test, you have an image of a widget or screen and check to see that the actual widget matches it.
 
 
-29. List some approaches for State management in Flutter.
+29. List some approaches for State management in `Flutter`.
 
     * setState()
     * Provider
@@ -264,7 +264,7 @@ This repository provides a list of important/ frequently asked questions for flu
     
     Flutter Inspector is a tool that helps in visualizing and exploring the widget trees. It also helps in understanding the present layout and rectify the layout issues.
     
-33. What are Null-aware operators in Flutter ?
+33. What are Null-aware operators in `Flutter` ?
     
     Dart offers some handy operators for dealing with values that might be null.
     a. One is the ??= assignment operator, which assigns a value to a variable only if that variable is currently null.
@@ -273,7 +273,7 @@ This repository provides a list of important/ frequently asked questions for flu
 
 ## Notes:
 
-This repository is only for providing information on flutter interview questions. Please do not misuse it. 
+This repository is only for providing information on `Flutter` interview questions. Please do not misuse it. 
 This repository is under development. I will keep adding more questions to it. 
 
 ## Author:
