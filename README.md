@@ -256,9 +256,10 @@ This repository provides a list of important/ frequently asked questions for flu
   
 32. What are the two types of Streams available in `Flutter`?
 
-    There are two types of Streams available in Flutter which are: .. *Single subscription streams* .. *Broadcast streams*. Single subscription streams : It is a popular and commom type of stream. It consist of series of events that are parts of a large whole. The events here have to be delivered in a defined order without even missing a single event.
+    There are two types of Streams available in Flutter which are: .. *Single subscription streams* .. *Broadcast streams*. 
+    `Single subscription streams:` It is a popular and commom type of stream. It consist of series of events that are parts of a large whole. The events here have to be delivered in a defined order without even missing a single event.
 
-    Broadcast streams : This stream is meant for the individual messages that can be handeled one at a time. Multiple listener can listen at a time and it also gives the user the chance to listen after the cancellation of the previous subscription.
+    `Broadcast streams:` This stream is meant for the individual messages that can be handeled one at a time. Multiple listener can listen at a time and it also gives the user the chance to listen after the cancellation of the previous subscription.
     
 33. What is a `Flutter` Inspector ?
     
