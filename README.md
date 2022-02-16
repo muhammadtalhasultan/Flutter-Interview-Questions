@@ -1,7 +1,7 @@
 # Flutter Interview Questions and Answers
 This repository provides a list of important/ frequently asked questions for flutter/dart language for mobile application development.
 
-![image](https://user-images.githubusercontent.com/31367048/150833270-88996d8f-3c8c-4c9f-ac49-89331f9a176c.png)
+![flutter_interview-01](https://user-images.githubusercontent.com/31367048/154249401-b336437b-af0a-43d1-9e28-139c97d64181.jpg)
 
 
 1. What is `Flutter`?
